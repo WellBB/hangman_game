@@ -1,0 +1,2 @@
+# hangman_game
+Exercise performed to improve skills related to object-oriented programming, error handling, functions, loops and variable storage. The game runs via the Python terminal, fully self-explanatory, prompting you to input variables and storing right and wrong letters as you try. The code randomly chooses a word from a .txt file from the NumPy library, and displays the number of letters in that word using dashes. A drawing is also shown, in code format, adding parts of the puppet's body to the gallows when the letters passed are incorrect.
